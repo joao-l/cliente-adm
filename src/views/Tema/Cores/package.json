@@ -1,0 +1,6 @@
+{
+  "name": "Cores",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./Cores.js"
+}

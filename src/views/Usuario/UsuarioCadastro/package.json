@@ -1,0 +1,6 @@
+{
+  "name": "UsuarioCadastro",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./UsuarioCadastro.js"
+}
